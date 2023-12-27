@@ -1,0 +1,3 @@
+[submodule "packages/code-link-booster"]
+	path = packages/code-link-booster
+	url = https://github.com/AbdelrahmanBl/code-link-booster.git
